@@ -3,7 +3,7 @@
 `A Flashcard app that asks a question and shows the answer once you click on the question.
 
 ### App Walk-though
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="FlashCardApp/gifff.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
